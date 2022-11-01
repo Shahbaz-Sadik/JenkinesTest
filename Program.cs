@@ -12,7 +12,7 @@ namespace JeniknsJob
             Console.WriteLine(cal.Add(5 , 3));
             Console.WriteLine(cal.Sub(5 , 3));
 
-            Console.WriteLine("Bye From Calculator");
+            Console.WriteLine("Bye Bye From Calculator");
         }
     }
 }

@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\": {}
+    "C:\\Users\\Shahbaz.Sadik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\sadik\\JenkinsDemoProject\\JeniknsJob\\JeniknsJob.csproj",
+      "projectUniqueName": "C:\\sadik\\JenkinsDemoProject\\JenkinesTest\\JeniknsJob.csproj",
       "projectName": "JeniknsJob",
-      "projectPath": "C:\\sadik\\JenkinsDemoProject\\JeniknsJob\\JeniknsJob.csproj",
-      "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
-      "outputPath": "C:\\sadik\\JenkinsDemoProject\\JeniknsJob\\obj\\",
+      "projectPath": "C:\\sadik\\JenkinsDemoProject\\JenkinesTest\\JeniknsJob.csproj",
+      "packagesPath": "C:\\Users\\Shahbaz.Sadik\\.nuget\\packages\\",
+      "outputPath": "C:\\sadik\\JenkinsDemoProject\\JenkinesTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Shahbaz.Sadik\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/dingnuget/auth/e8c34032-c116-437d-83a9-9874dd461890/api/v2": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
